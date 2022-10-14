@@ -11,7 +11,7 @@
 ### As you start
 
 Right away:
-Add your name as a comment to the Wordguess.java class, and do a "git trio" ->
+Add your name as a comment to the Wordguess.java class, and do the "git trio" in a terminal ->
 
 ```
 git add .
